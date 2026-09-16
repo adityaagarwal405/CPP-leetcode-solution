@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0925-long-pressed-name) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1260-shift-2d-grid) |
 ## Binary Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0925-long-pressed-name) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
