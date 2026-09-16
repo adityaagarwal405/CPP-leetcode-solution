@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0859-buddy-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0859-buddy-strings) |
 <!---LeetCode Topics End-->
