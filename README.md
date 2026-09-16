@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,4 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
