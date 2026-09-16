@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0344-reverse-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -123,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
