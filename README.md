@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0925-long-pressed-name) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
