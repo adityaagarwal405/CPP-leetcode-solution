@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,14 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
