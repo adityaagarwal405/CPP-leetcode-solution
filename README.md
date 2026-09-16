@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
