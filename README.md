@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Quicksort
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0867-transpose-matrix) |
