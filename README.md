@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
