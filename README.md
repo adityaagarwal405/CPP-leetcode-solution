@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/adityaagarwal405/CPP-leetcode-solution/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
